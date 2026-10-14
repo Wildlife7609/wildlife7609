@@ -5,7 +5,7 @@ Full-stack engineer focused on building AI-powered applications — from backend
 **Featured projects**
 
 - **AIFriends** — Conversational AI platform (Django + Vue 3) with customizable agents, real-time SSE streaming chat, and voice interaction.
-- **KingsOfBots** — Bot battle platform (Spring Boot + Vue 3) where users write bots that compete in real-time snake matches.
+- **ByteDuel** — Real-time bot battle platform (Spring Boot + Vue 3) where users write bots that compete in live snake duels.
 
 **Tech stack**
 
