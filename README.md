@@ -1,12 +1,12 @@
 ### Hi, I'm Jing 👋
 
-Full-stack engineer focused on building AI-powered applications — from backend services to real-time, LLM-driven user experiences.
+Full-stack engineer building AI-powered and real-time applications with Python, Java, and Vue.
 
 **Featured projects**
 
-- **AIFriends** — Conversational AI platform (Django + Vue 3) with customizable agents, real-time SSE streaming chat, and voice interaction.
-- **ByteDuel** — Real-time bot battle platform (Spring Boot + Vue 3) where users write bots that compete in live snake duels.
+- [AIFriends](https://github.com/Wildlife7609/AIFriends) — An AI companion platform with customizable characters, long-term memory, streaming chat, and voice interaction. Built with Django, Vue 3, and Gemini.
+- [ByteDuel]((https://github.com/Wildlife7609/ByteDuel) — A real-time bot battle platform where users write bots to compete in live snake matches. Built with Spring Boot and Vue 3.
 
 **Tech stack**
 
-Java · Spring Boot · Python · Django · PyTorch · Vue 3 · C++ · SQL · Docker · GCP
+Python · Django · Java · Spring Boot · Vue 3 · SQL · Docker · GCP · C++ · PyTorch
